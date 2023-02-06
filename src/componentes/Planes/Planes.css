@@ -1,0 +1,53 @@
+.contenedor-planes{
+  height: 80%;
+  width: 30%;
+  border-radius: 30px;
+  justify-content: center;
+  margin-top: 3%;
+  background-color: white;
+  -webkit-box-shadow: 5px 5px 10px 2px rgba(0,0,0,0.72); 
+  box-shadow: 5px 5px 10px 2px rgba(0,0,0,0.72);
+  cursor: pointer;
+}
+
+.contenedor-planes:hover{
+  font-weight: 600;
+}
+
+.plan-sup{
+  background-color: black;
+  height: 20%;
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px 20px 0 0;
+}
+
+.plan-sup ul{
+  list-style: none;
+  font-weight: bold;
+  font-size: 1.7em;
+}
+
+.planTipo{
+  color: orange;
+  font-size: 1.1em;
+}
+
+.plan-inf{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.plan-inf ul{
+  list-style: none;
+  font-size: 1.3em;
+}
+
+.plan-inf li{
+  margin: 7% 5%;
+}

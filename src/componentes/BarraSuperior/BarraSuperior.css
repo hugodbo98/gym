@@ -1,0 +1,34 @@
+.contenedor-barraSup{
+  background-color: black;
+  height: 12vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  justify-content: space-between;
+}
+
+.logoGym-barraSup{
+  height: 80%;
+  cursor: pointer;
+  margin-left: 6%;
+  border-radius: 10px;
+}
+
+.lista-barraSup{
+  display: flex;
+  list-style: none;
+  margin-right: 6%;
+}
+
+a{
+  margin: 0 25px;
+  cursor: pointer;
+  font-size: 1.5em;
+}
+
+a:hover{
+  color: orange;
+}
