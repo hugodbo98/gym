@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.eafa4044.css",
+    "main.js": "/gym/static/js/main.c916f444.js",
+    "static/media/fondoMedioGym2.jpg": "/gym/static/media/fondoMedioGym2.2dd7fde1d4bcb7f8be05.jpg",
+    "static/media/muestra5.png": "/gym/static/media/muestra5.e05796061c3946ed3224.png",
+    "static/media/fondoInicioGym.jpeg": "/gym/static/media/fondoInicioGym.5cb24542267aa713f2d2.jpeg",
+    "static/media/muestra2.jpg": "/gym/static/media/muestra2.c8e00f86a4bc0d1ace35.jpg",
+    "static/media/muestra3.jpg": "/gym/static/media/muestra3.b8ce6d1c9c725bc6ce3e.jpg",
+    "static/media/muestra4.jpg": "/gym/static/media/muestra4.e2fd954fd885f78d700b.jpg",
+    "static/media/muestra1.jpg": "/gym/static/media/muestra1.6a429e3bcf9baa6a10d7.jpg",
+    "static/media/muestra6.jpg": "/gym/static/media/muestra6.f8c16f274a2faa999ea4.jpg",
+    "static/media/logo.svg": "/gym/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gym/index.html",
+    "main.eafa4044.css.map": "/gym/static/css/main.eafa4044.css.map",
+    "main.c916f444.js.map": "/gym/static/js/main.c916f444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eafa4044.css",
+    "static/js/main.c916f444.js"
+  ]
+}
